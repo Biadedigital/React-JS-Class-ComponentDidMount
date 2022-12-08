@@ -18,9 +18,10 @@ export default class App extends Component {
   
   render(){
     console.log("render")
+    let handleData = this.state.character
     return (  
       <h1>
-        {this.state.character.name}
+        {handleData.name}
       </h1>
     )
   }
