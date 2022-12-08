@@ -13,4 +13,4 @@ Using React Class ComponentDidMount to render API to the UI
 
 ## Code
 - [Code-on-Replit](https://replit.com/@Biademade/React-JS-Class-ComponentDidMount?v=1)
-- [Code-on-Github](https://github.com/Biadedigital/Profile-Card-Ui-React-Class-Component)
+- [Code-on-Github](https://github.com/Biadedigital/React-JS-Class-ComponentDidMount)
